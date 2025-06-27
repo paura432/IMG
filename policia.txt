@@ -1,0 +1,11 @@
+{
+  "title": "Cuerpo Nacional de Policía",
+  "issuerName": "Ministerio del Interior - Gobierno de España",
+  "titleTextColor": "#FFFFFF",
+  "issuerTextColor": "#FFFFFF",
+  "backgroundImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Escudo_del_Cuerpo_Nacional_de_Polic%C3%ADa.svg/1920px-Escudo_del_Cuerpo_Nacional_de_Polic%C3%ADa.svg.png",
+  "logo": {
+    "uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Logotipo_del_Ministerio_del_Interior_%28Gobierno_de_Espa%C3%B1a%29.svg/1920px-Logotipo_del_Ministerio_del_Interior_%28Gobierno_de_Espa%C3%B1a%29.svg.png",
+    "alt": "Logo Ministerio del Interior"
+  }
+}
